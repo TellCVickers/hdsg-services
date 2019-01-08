@@ -1,0 +1,19 @@
+{
+  "name": "hdsg-services",
+  "version": "0.0.0",
+  "description": "test services repo",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TellCVickers/hdsg-services.git"
+  },
+  "author": "TellCVickers",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TellCVickers/hdsg-services/issues"
+  },
+  "homepage": "https://github.com/TellCVickers/hdsg-services#readme"
+}
